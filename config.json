@@ -1,4 +1,5 @@
 {
   "url": "https://google.com/",
-  "host": "https://github.com/"
+  "host": "https://github.com/",
+  "ip": "127.0.0.1"
 }
